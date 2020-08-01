@@ -5,7 +5,7 @@
 - 🌱 Java SE
 - 👯 Data Structures and Algorithms
 - 🤔 System Design and Design Patterns
-- 💬 Spring and Hinernate
+- 💬 Spring and Hibernate
 - 📫 Spring Boot and Microservices
 
 ### " MAY THE SOURCE BE WITH YOU "
